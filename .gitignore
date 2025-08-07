@@ -1,0 +1,50 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env
+.venv
+venv/
+ENV/
+env/
+*.egg-info/
+dist/
+build/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Logs and outputs
+*.log
+*.out
+*.bak
+*.swp
+
+# Virtual environments
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Jupyter Notebook output
+*.~ipynb
+*.nbconvert.ipynb
+*.nbconvert.*
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# Environment config
+.envrc
+.conda/
+*.conda
+*.yml

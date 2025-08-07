@@ -50,9 +50,18 @@ The project brief is available both in English and Italian.
 ## 📂 Repository Structure
 
 ```
-
+📦 BIT-DECODING-SGD-LOGISTIC-CLASSIFICATION/
+├── README.md
+├── LICENSE
+├── .gitignore
+├── 📁 data/
+│   └── homeworkclass.mat                      # Dataset MATLAB contenente dati per i 48 classificatori binari
+├── 📁 instructions/
+│   ├── project_description_logistic_classification_ENGLISH.pdf  # Descrizione del progetto in inglese
+│   └── project_description_logistic_classification_ITALIAN.pdf  # Descrizione del progetto in italiano
+└── 📁 notebooks/
+    └── bit_decoding_logistic_classification.ipynb  # Notebook Jupyter con implementazione e analisi
 ```
-
 
 ---
 

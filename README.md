@@ -8,6 +8,8 @@ This project implements a system for decoding binary sequences using **logistic 
 
 > Demonstrates proficiency in Python, logistic regression, stochastic optimization, and machine learning evaluation workflows.
 
+📂 This project is part of a series of logistic regression case studies. For another similar project, see [bayesian-map-vs-logistic-regression](https://github.com/francescopiocirillo/bayesian-map-vs-logistic-regression).
+
 ---
 
 ## 📌 Objective
